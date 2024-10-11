@@ -5,21 +5,19 @@ This repository contains custom error and maintenance pages built with HTML and 
 500 - Something Went Wrong
 505 - HTTP Version Not Supported
 Maintenance Mode
+
 Installation and Setup
 Install Node Modules
 
 Before running the project, install the necessary dependencies:
 
-bash
-Copy code
 npm i
-Start Vite Development Server
 
+Start Vite Development Server
 To run the project in development mode:
 
-bash
-Copy code
 npm run start
+
 Pages Included
 404.html: For "Page Not Found" errors
 500.html: For internal server errors
